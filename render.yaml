@@ -1,0 +1,20 @@
+# Render Blueprint: one web service. Express serves the API and the built React app.
+services:
+  - type: web
+    name: kaapi-hills
+    runtime: node
+    plan: free
+    buildCommand: npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        sync: false        # paste the Neon connection string in the Render dashboard
+      - key: JWT_SECRET
+        generateValue: true
+      - key: GEMINI_API_KEY
+        sync: false        # optional: without it the rule-based router is used
+      - key: GEMINI_MODEL
+        value: gemini-3.6-flash
