@@ -1,0 +1,14 @@
+{
+  "name": "resort-direct",
+  "private": true,
+  "description": "Kaapi Hills direct booking site with allotment control and AI enquiry routing",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "install:all": "npm ci --prefix backend && npm ci --include=dev --prefix frontend",
+    "build": "npm run install:all && npm run build --prefix frontend",
+    "start": "npm run seed:if-empty --prefix backend && npm start --prefix backend",
+    "test": "npm test --prefix backend",
+    "dev:api": "npm run dev --prefix backend",
+    "dev:web": "npm run dev --prefix frontend"
+  }
+}
