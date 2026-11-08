@@ -1,0 +1,257 @@
+[
+ {
+  "message": "Venue for my sister's wedding in Feb 2027, about 250 guests, 2 nights",
+  "label": "wedding",
+  "set": "tuning"
+ },
+ {
+  "message": "Is a villa free 14-16 Nov for 2 adults and a child?",
+  "label": "room_booking",
+  "set": "tuning"
+ },
+ {
+  "message": "Team of 45 wants a January offsite with a conference hall",
+  "label": "corporate_offsite",
+  "set": "tuning"
+ },
+ {
+  "message": "We checked out yesterday and were charged twice for dinner. Quite disappointed.",
+  "label": "complaint",
+  "set": "tuning"
+ },
+ {
+  "message": "Namaskara, December last week nalli 2 rooms beku, 4 adults. Rate yeshtu?",
+  "label": "room_booking",
+  "set": "tuning"
+ },
+ {
+  "message": "Hi, do you do anything special for birthdays?",
+  "label": "other",
+  "set": "tuning"
+ },
+ {
+  "message": "Planning our honeymoon, looking at a pool villa for 3 nights from 20 Dec. Is it available?",
+  "label": "room_booking",
+  "set": "tuning"
+ },
+ {
+  "message": "We are a 60 member company looking for a 2 night team building retreat in March with breakout rooms.",
+  "label": "corporate_offsite",
+  "set": "tuning"
+ },
+ {
+  "message": "Shaadi ke liye venue chahiye, 150 log, March mein. Rooms bhi chahiye.",
+  "label": "wedding",
+  "set": "tuning"
+ },
+ {
+  "message": "Can we bring our dog along?",
+  "label": "other",
+  "set": "tuning"
+ },
+ {
+  "message": "Booking for 2 adults, 28 Nov to 30 Nov, Valley View Room with breakfast please.",
+  "label": "room_booking",
+  "set": "tuning"
+ },
+ {
+  "message": "Our engagement ceremony and a small reception for 80 guests, sometime in April. Do you have a lawn?",
+  "label": "wedding",
+  "set": "tuning"
+ },
+ {
+  "message": "Staff at the restaurant were rude to my parents last night. Not happy at all.",
+  "label": "complaint",
+  "set": "tuning"
+ },
+ {
+  "message": "Do you have 3 rooms available on 24th December for 6 adults?",
+  "label": "room_booking",
+  "set": "tuning"
+ },
+ {
+  "message": "Looking for a destination wedding venue for around 300 guests in November 2027",
+  "label": "wedding",
+  "set": "tuning"
+ },
+ {
+  "message": "Our leadership team (18 people) needs a quiet place for a 2-day strategy workshop in February",
+  "label": "corporate_offsite",
+  "set": "tuning"
+ },
+ {
+  "message": "The AC in our room was broken and the bathroom was dirty. Worst stay ever, I want a refund.",
+  "label": "complaint",
+  "set": "tuning"
+ },
+ {
+  "message": "What time is check-out?",
+  "label": "other",
+  "set": "tuning"
+ },
+ {
+  "message": "Want to book a room for this weekend for a couple",
+  "label": "room_booking",
+  "set": "tuning"
+ },
+ {
+  "message": "Hi, we want to do a board meeting and dinner for 25 delegates on 12 Jan",
+  "label": "corporate_offsite",
+  "set": "tuning"
+ },
+ {
+  "message": "Mehendi and sangeet for 120 people, plus 30 rooms for 2 nights in Jan 2027",
+  "label": "wedding",
+  "set": "tuning"
+ },
+ {
+  "message": "I was overcharged on my bill and nobody at the front desk helped. Very bad experience.",
+  "label": "complaint",
+  "set": "tuning"
+ },
+ {
+  "message": "Is the Coffee Suite free from 2 Jan to 5 Jan? Two adults and one kid.",
+  "label": "room_booking",
+  "set": "tuning"
+ },
+ {
+  "message": "Do you have a tie-up with any taxi service from Bangalore?",
+  "label": "other",
+  "set": "tuning"
+ },
+ {
+  "message": "Our company wants an annual offsite for 90 employees, with a hall and team activities",
+  "label": "corporate_offsite",
+  "set": "tuning"
+ },
+ {
+  "message": "Can you host a small wedding reception for 60 guests in May?",
+  "label": "wedding",
+  "set": "tuning"
+ },
+ {
+  "message": "We found a cockroach in the room and the food was cold. Unacceptable for this price.",
+  "label": "complaint",
+  "set": "tuning"
+ },
+ {
+  "message": "Hello, is there availability for a villa next Friday and Saturday, 4 adults?",
+  "label": "room_booking",
+  "set": "tuning"
+ },
+ {
+  "message": "Do you allow outside food?",
+  "label": "other",
+  "set": "tuning"
+ },
+ {
+  "message": "Conference for 40 doctors in March with projector and lunch, 1 night stay",
+  "label": "corporate_offsite",
+  "set": "tuning"
+ },
+ {
+  "message": "Kalyana mantapa type venue beku, 400 janaru, Jan 2027",
+  "label": "wedding",
+  "set": "tuning"
+ },
+ {
+  "message": "Booked through an agent last week but the room we got was not what was promised. Disappointed.",
+  "label": "complaint",
+  "set": "tuning"
+ },
+ {
+  "message": "Rooms for 2 families, 4 adults and 3 kids, 26 to 29 December",
+  "label": "room_booking",
+  "set": "tuning"
+ },
+ {
+  "message": "Hi there",
+  "label": "other",
+  "set": "tuning"
+ },
+ {
+  "message": "We'd like a weekend team outing for 30 colleagues sometime in April",
+  "label": "corporate_offsite",
+  "set": "tuning"
+ },
+ {
+  "message": "Your website shows Pool Villa available on 18 Dec, can I reserve it for 2 nights?",
+  "label": "room_booking",
+  "set": "tuning"
+ },
+ {
+  "message": "My parents' 40th anniversary, we want a dinner for 50 and rooms for the family, 10-12 Jan",
+  "label": "other",
+  "set": "holdout"
+ },
+ {
+  "message": "Need 8 rooms for my cousin's wedding guests on 14 Feb, the wedding is in Chikmagalur town",
+  "label": "room_booking",
+  "set": "holdout"
+ },
+ {
+  "message": "Your pool villa photos look amazing. Price for new year's eve?",
+  "label": "room_booking",
+  "set": "holdout"
+ },
+ {
+  "message": "hey r u guys open during monsoon",
+  "label": "other",
+  "set": "holdout"
+ },
+ {
+  "message": "We will be 3 couples, arriving Friday evening and leaving Sunday",
+  "label": "room_booking",
+  "set": "holdout"
+ },
+ {
+  "message": "I booked KH-7XQ2 and want to change my dates to next month",
+  "label": "other",
+  "set": "holdout"
+ },
+ {
+  "message": "Waited 40 minutes for breakfast this morning, still nothing. Room 214.",
+  "label": "complaint",
+  "set": "holdout"
+ },
+ {
+  "message": "Our startup of 22 people wants to come for 3 days to plan next year",
+  "label": "corporate_offsite",
+  "set": "holdout"
+ },
+ {
+  "message": "We'd love to have our reception at the estate, roughly 180 people",
+  "label": "wedding",
+  "set": "holdout"
+ },
+ {
+  "message": "Kindly share the tariff for a family of five for the Diwali weekend",
+  "label": "room_booking",
+  "set": "holdout"
+ },
+ {
+  "message": "The towels smelled and the heater did not work. Expected better.",
+  "label": "complaint",
+  "set": "holdout"
+ },
+ {
+  "message": "Is there a wedding package that includes rooms and photography?",
+  "label": "wedding",
+  "set": "holdout"
+ },
+ {
+  "message": "HR here. Looking at a 1-day offsite with lunch, no overnight stay, ~35 pax",
+  "label": "corporate_offsite",
+  "set": "holdout"
+ },
+ {
+  "message": "Can I get a refund for my cancelled booking?",
+  "label": "other",
+  "set": "holdout"
+ },
+ {
+  "message": "Two nights, two adults, best view you have, early December",
+  "label": "room_booking",
+  "set": "holdout"
+ }
+]
